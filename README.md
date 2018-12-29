@@ -1,4 +1,2 @@
-# twitter_bio_search
-Search the bios of followers for a particular twitter account for key words
-
-Uses tweepy
+# Twitter Followers Bio Search
+Search the bios of followers for a particular twitter account for key words, using tweepy and twitter API
